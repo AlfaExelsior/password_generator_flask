@@ -42,9 +42,9 @@ A simple Flask application to generate and save passwords to a CSV file with a h
    ```bash
    python app.py
 
-📄 Usage
+## 📄 Usage
 
-## Open your browser and go to http://localhost:5000.
-## Enter the desired password length and click "Generate Password".
-## The generated password will be saved to a CSV file and automatically downloaded.
+# Open your browser and go to http://localhost:5000.
+# Enter the desired password length and click "Generate Password".
+# The generated password will be saved to a CSV file and automatically downloaded.
 
